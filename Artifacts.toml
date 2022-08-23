@@ -1,0 +1,18 @@
+[[PSRDADA]]
+arch = "i686"
+git-tree-sha1 = "c7ceaa7a742cc81923d68ffafcb03ae4241721db"
+libc = "glibc"
+os = "linux"
+
+    [[PSRDADA.download]]
+    sha256 = "bdeb2527c9c5f8a3f02e9bffd4422a98f48b1cab42ca54b9875b4ba4156fadbc"
+    url = "https://github.com/JuliaBinaryWrappers/PSRDADA_jll.jl/releases/download/PSRDADA-v1.0.0+0/PSRDADA.v1.0.0.i686-linux-gnu.tar.gz"
+[[PSRDADA]]
+arch = "x86_64"
+git-tree-sha1 = "d814befaa18b4c63ee92c76a6b73dbe35b7cd7eb"
+libc = "glibc"
+os = "linux"
+
+    [[PSRDADA.download]]
+    sha256 = "216248e3613687a4087a0bd0a537d7738dc1ba53188d8df46f7a424c2487a4f4"
+    url = "https://github.com/JuliaBinaryWrappers/PSRDADA_jll.jl/releases/download/PSRDADA-v1.0.0+0/PSRDADA.v1.0.0.x86_64-linux-gnu.tar.gz"
